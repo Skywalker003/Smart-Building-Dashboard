@@ -6,6 +6,14 @@ Built as a Frontend Developer Intern assignment using React, plain CSS, and a fe
 
 ---
 
+## Screenshots
+
+![Dashboard overview](public/side1.png)
+
+![Widgets and map](public/side2.png)
+
+---
+
 ## What's inside
 
 The dashboard is made up of five widgets, each fetching its own data independently:
